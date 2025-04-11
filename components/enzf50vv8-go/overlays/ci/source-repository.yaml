@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: enzf50vv8-go-repository
+spec:
+  url: https://github.com/xjiangorg/enzf50vv8-go
